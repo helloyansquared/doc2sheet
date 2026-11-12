@@ -23,4 +23,4 @@ Upload invoices or receipts (PDF, scans, phone photos) and get clean, validated 
 in Excel / CSV / JSON. A vision LLM reads the document; deterministic checks re-do the
 arithmetic so wrong totals are flagged for review instead of silently accepted.
 
-Source code, CLI and docs: https://github.com/yesyesyanyan/doc2sheet
+Source code, CLI and docs: https://github.com/helloyansquared/doc2sheet

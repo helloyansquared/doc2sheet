@@ -9,7 +9,7 @@ description = "Turn invoices and receipts (PDF, scans, photos) into validated sp
 readme = "README.md"
 license = "MIT"
 requires-python = ">=3.10"
-authors = [{ name = "yesyesyanyan" }]
+authors = [{ name = "helloyansquared" }]
 keywords = ["invoice", "receipt", "ocr", "llm", "document-ai", "automation", "gradio"]
 dependencies = [
     "httpx>=0.27",

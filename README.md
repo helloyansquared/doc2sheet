@@ -6,7 +6,7 @@ A vision LLM reads the document, Pydantic enforces the schema, and deterministic
 re-do the arithmetic — so a misread total gets flagged for review instead of silently
 landing in your books.
 
-[![CI](https://github.com/yesyesyanyan/doc2sheet/actions/workflows/ci.yml/badge.svg)](https://github.com/yesyesyanyan/doc2sheet/actions/workflows/ci.yml)
+[![CI](https://github.com/helloyansquared/doc2sheet/actions/workflows/ci.yml/badge.svg)](https://github.com/helloyansquared/doc2sheet/actions/workflows/ci.yml)
 [![Showcase](https://img.shields.io/badge/%F0%9F%A4%97%20Showcase-Hugging%20Face%20Space-yellow)](https://huggingface.co/spaces/yesyanyan/doc2sheet)
 ![Python](https://img.shields.io/badge/python-3.10%2B-blue)
 ![License](https://img.shields.io/badge/license-MIT-green)
@@ -84,7 +84,7 @@ with a misread line price and a missing tip. It was marked **review** instead of
 Requires Python 3.10+.
 
 ```bash
-git clone https://github.com/yesyesyanyan/doc2sheet.git
+git clone https://github.com/helloyansquared/doc2sheet.git
 cd doc2sheet
 python -m venv .venv
 # Windows: .venv\Scripts\activate    macOS/Linux: source .venv/bin/activate
@@ -247,7 +247,7 @@ The LLM is replaced by a fake in tests; HTTP behaviour (retries, fallbacks, erro
 ## Need something like this?
 
 I build small, reliable AI automations — document pipelines, lead routing, reporting bots.
-Open an issue or reach out via my [GitHub profile](https://github.com/yesyesyanyan).
+Open an issue or reach out via my [GitHub profile](https://github.com/helloyansquared).
 
 ## License
 

@@ -18,4 +18,4 @@ tags:
 # Doc2Sheet
 
 Recorded results of Doc2Sheet on four sample documents. Source code, CLI and the Gradio app:
-https://github.com/yesyesyanyan/doc2sheet
+https://github.com/helloyansquared/doc2sheet
