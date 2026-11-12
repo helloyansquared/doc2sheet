@@ -73,8 +73,8 @@ def main() -> None:
     parser = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
     parser.add_argument("results", help="JSON written by `python -m doc2sheet ... --json`")
     parser.add_argument("--recorded", required=True, help='when the run was made, e.g. "27 Sep 2026"')
-    parser.add_argument("--github", default="https://github.com/yesyesyanyan/doc2sheet")
-    parser.add_argument("--author-url", default="https://github.com/yesyesyanyan")
+    parser.add_argument("--github", default="https://github.com/helloyansquared/doc2sheet")
+    parser.add_argument("--author-url", default="https://github.com/helloyansquared")
     args = parser.parse_args()
 
     results = json.loads(Path(args.results).read_text(encoding="utf-8"))
