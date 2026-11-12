@@ -7,15 +7,15 @@ re-do the arithmetic — so a misread total gets flagged for review instead of s
 landing in your books.
 
 [![CI](https://github.com/helloyansquared/doc2sheet/actions/workflows/ci.yml/badge.svg)](https://github.com/helloyansquared/doc2sheet/actions/workflows/ci.yml)
-[![Showcase](https://img.shields.io/badge/%F0%9F%A4%97%20Showcase-Hugging%20Face%20Space-yellow)](https://huggingface.co/spaces/yesyanyan/doc2sheet)
+[![Showcase](https://img.shields.io/badge/%F0%9F%A4%97%20Showcase-Hugging%20Face%20Space-yellow)](https://huggingface.co/spaces/helloyansquared/doc2sheet)
 ![Python](https://img.shields.io/badge/python-3.10%2B-blue)
 ![License](https://img.shields.io/badge/license-MIT-green)
 
-**▶ See it in action:** [huggingface.co/spaces/yesyanyan/doc2sheet](https://huggingface.co/spaces/yesyanyan/doc2sheet) shows the real results on four
+**▶ See it in action:** [huggingface.co/spaces/helloyansquared/doc2sheet](https://huggingface.co/spaces/helloyansquared/doc2sheet) shows the real results on four
 sample documents, with the extracted fields, line items and what the checks flagged. To try your own files, run it
 locally (two commands, below).
 
-[![Doc2Sheet showcase: a freight invoice whose printed total is wrong is flagged for review](docs/showcase.jpg)](https://huggingface.co/spaces/yesyanyan/doc2sheet)
+[![Doc2Sheet showcase: a freight invoice whose printed total is wrong is flagged for review](docs/showcase.jpg)](https://huggingface.co/spaces/helloyansquared/doc2sheet)
 
 ---
 
