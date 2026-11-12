@@ -23,7 +23,7 @@ SETTINGS = Settings.from_env()
 # On Hugging Face Spaces SPACE_ID is set automatically -> lock down the public demo.
 PUBLIC_DEMO = os.getenv("DOC2SHEET_PUBLIC_DEMO", "1" if os.getenv("SPACE_ID") else "0") == "1"
 MAX_FILES = int(os.getenv("DOC2SHEET_MAX_FILES", "5" if PUBLIC_DEMO else "50"))
-GITHUB_URL = os.getenv("DOC2SHEET_GITHUB_URL", "https://github.com/helloyansquared/doc2sheet")
+GITHUB_URL = os.getenv("DOC2SHEET_GITHUB_URL", "https://github.com/yesyesyanyan/doc2sheet")
 
 HEADER = f"""
 # 🧾 Doc2Sheet — invoices & receipts → validated spreadsheet
